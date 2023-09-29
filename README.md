@@ -14,7 +14,6 @@ Username: admin_vpr
 Password: prince123
 
 
-*for further access of website such as ( database tables ) you would need user id's with passwords which you can get from mysql file named "hospital_management_system" in zip folder.
 
 
 For any further cooperations or details regarding this project you can email at vedeeka2020@gmail.com or reach me at LinkedIn: https://www.linkedin.com/in/vedeeka-rajpal-96a838293
